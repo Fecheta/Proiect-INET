@@ -6442,19 +6442,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\folariu\\.nuget\\packages\\": {}
+    "C:\\Users\\Virgil\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\folariu\\source\\repos\\Onion.Sample.INET\\WebAPI\\WebAPI.csproj",
+      "projectUniqueName": "C:\\Users\\Virgil\\Desktop\\.NET Laborator\\Proiect-INET\\Arhitectura\\WebAPI\\WebAPI.csproj",
       "projectName": "WebAPI",
-      "projectPath": "C:\\Users\\folariu\\source\\repos\\Onion.Sample.INET\\WebAPI\\WebAPI.csproj",
-      "packagesPath": "C:\\Users\\folariu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\folariu\\source\\repos\\Onion.Sample.INET\\WebAPI\\obj\\",
+      "projectPath": "C:\\Users\\Virgil\\Desktop\\.NET Laborator\\Proiect-INET\\Arhitectura\\WebAPI\\WebAPI.csproj",
+      "packagesPath": "C:\\Users\\Virgil\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Virgil\\Desktop\\.NET Laborator\\Proiect-INET\\Arhitectura\\WebAPI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\folariu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Virgil\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -6468,11 +6468,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\folariu\\source\\repos\\Onion.Sample.INET\\Application\\Application.csproj": {
-              "projectPath": "C:\\Users\\folariu\\source\\repos\\Onion.Sample.INET\\Application\\Application.csproj"
+            "C:\\Users\\Virgil\\Desktop\\.NET Laborator\\Proiect-INET\\Arhitectura\\Application\\Application.csproj": {
+              "projectPath": "C:\\Users\\Virgil\\Desktop\\.NET Laborator\\Proiect-INET\\Arhitectura\\Application\\Application.csproj"
             },
-            "C:\\Users\\folariu\\source\\repos\\Onion.Sample.INET\\Persistence\\Persistence.csproj": {
-              "projectPath": "C:\\Users\\folariu\\source\\repos\\Onion.Sample.INET\\Persistence\\Persistence.csproj"
+            "C:\\Users\\Virgil\\Desktop\\.NET Laborator\\Proiect-INET\\Arhitectura\\Persistence\\Persistence.csproj": {
+              "projectPath": "C:\\Users\\Virgil\\Desktop\\.NET Laborator\\Proiect-INET\\Arhitectura\\Persistence\\Persistence.csproj"
             }
           }
         }
@@ -6520,7 +6520,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100-rc.2.21505.57\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }
