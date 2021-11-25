@@ -12,11 +12,11 @@ namespace Persistence
         public static void AddPersistence(this IServiceCollection services, IConfiguration configuration)
         {
             // services.AddDbContext<ProductContext>(options => options.UseSqlServer(configuration.GetConnectionString("MyConnection"), b => b.MigrationsAssembly(typeof(ProductContext).Assembly.FullName)));
-            services.AddDbContext<ProductContext>(options => options.UseSqlite("Data Source=MyProducts.db"));
+            services.AddDbContext<HouseContext>(options => options.UseSqlite("Data Source=MyHouses.db"));
             // services.AddScoped<IApplicationContext, ProductContext>();
             // register implementations related to repository/generic implementation
             services.AddTransient(typeof(IRepository<>), typeof(Repository<>));
-            services.AddTransient<IProductRepository, ProductRepository>();
+            services.AddTransient<IHouseRepository, HouseRepository>();
         }
     }
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "f+piAfpbJP3H6rPO77FtYt7V87fQExDQDMI0832ZsdtROZQ/ZYaYcn/1ADaZCrCrI3HznKgpSbXSh0J0mjBR/g==",
+  "dgSpecHash": "BgYlAGeFAWvtvLEAmp+d7mraHxCqUU+UJOJVz5LNWIM0S57aEr0JKPiexJKy7EXSgiqsr7Zgk0S0iIQOHj5vYQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Virgil\\Desktop\\.NET Laborator\\Proiect-INET\\Infrastructure.Tets\\Infrastructure.Tets.csproj",
+  "projectFilePath": "C:\\Users\\Virgil\\Desktop\\.NET Laborator\\.NET-Proiect\\Onion.Sample.INET\\Infrastructure.Tets\\Infrastructure.Tets.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Virgil\\.nuget\\packages\\castle.core\\4.3.1\\castle.core.4.3.1.nupkg.sha512",
     "C:\\Users\\Virgil\\.nuget\\packages\\coverlet.collector\\3.1.0\\coverlet.collector.3.1.0.nupkg.sha512",
@@ -170,5 +170,12 @@
     "C:\\Users\\Virgil\\.nuget\\packages\\xunit.extensibility.execution\\2.4.1\\xunit.extensibility.execution.2.4.1.nupkg.sha512",
     "C:\\Users\\Virgil\\.nuget\\packages\\xunit.runner.visualstudio\\2.4.3\\xunit.runner.visualstudio.2.4.3.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file C:\\Users\\Virgil\\Desktop\\.NET Laborator\\.NET-Proiect\\Onion.Sample.INET\\Infrastructure.Tets\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }

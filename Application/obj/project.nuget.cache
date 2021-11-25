@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/3nNuuPjEIYQ0OdvKU0UXJSIe3Tn3xNPGVuE3wnjhGXpGmnUO3j+2KyeM9Zt6kuh2HNP01T6dbLMxcM3OrJztg==",
+  "dgSpecHash": "BJVZ2kq+9ZM+Wvot27d65mc3ex9kG99u/rNPrudmE/ox/eW+J83vVtQZQyVeexQUEhbhwP10SoCJJ6143+XWFg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Virgil\\Desktop\\.NET Laborator\\Proiect-INET\\Application\\Application.csproj",
+  "projectFilePath": "C:\\Users\\Virgil\\Desktop\\.NET Laborator\\.NET-Proiect\\Onion.Sample.INET\\Application\\Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Virgil\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
     "C:\\Users\\Virgil\\.nuget\\packages\\mediatr.extensions.microsoft.dependencyinjection\\9.0.0\\mediatr.extensions.microsoft.dependencyinjection.9.0.0.nupkg.sha512",
@@ -21,5 +21,12 @@
     "C:\\Users\\Virgil\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512",
     "C:\\Users\\Virgil\\.nuget\\packages\\system.diagnostics.diagnosticsource\\5.0.1\\system.diagnostics.diagnosticsource.5.0.1.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file C:\\Users\\Virgil\\Desktop\\.NET Laborator\\.NET-Proiect\\Onion.Sample.INET\\Application\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }

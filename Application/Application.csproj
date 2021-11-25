@@ -1,9 +1,10 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFramework>net5.0</TargetFramework>
+    <TargetFramework>net6.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+    <ProjectGuid>{800b35f4-7610-4d81-be77-e48c3cda6fb7}</ProjectGuid>
   </PropertyGroup>
 
   <ItemGroup>

@@ -7,9 +7,9 @@ namespace Persistence.v1
 {
     public class Repository<TEntity> : IRepository<TEntity> where TEntity : BaseEntity
     {
-        private readonly ProductContext context;
+        private readonly HouseContext context;
 
-        public Repository(ProductContext context)
+        public Repository(HouseContext context)
         {
             this.context = context;
         }

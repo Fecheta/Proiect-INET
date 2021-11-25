@@ -9302,11 +9302,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Virgil\\Desktop\\.NET Laborator\\Proiect-INET\\Infrastructure.Tets\\Infrastructure.Tets.csproj",
+      "projectUniqueName": "C:\\Users\\Virgil\\Desktop\\.NET Laborator\\.NET-Proiect\\Onion.Sample.INET\\Infrastructure.Tets\\Infrastructure.Tets.csproj",
       "projectName": "Infrastructure.Tets",
-      "projectPath": "C:\\Users\\Virgil\\Desktop\\.NET Laborator\\Proiect-INET\\Infrastructure.Tets\\Infrastructure.Tets.csproj",
+      "projectPath": "C:\\Users\\Virgil\\Desktop\\.NET Laborator\\.NET-Proiect\\Onion.Sample.INET\\Infrastructure.Tets\\Infrastructure.Tets.csproj",
       "packagesPath": "C:\\Users\\Virgil\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Virgil\\Desktop\\.NET Laborator\\Proiect-INET\\Infrastructure.Tets\\obj\\",
+      "outputPath": "C:\\Users\\Virgil\\Desktop\\.NET Laborator\\.NET-Proiect\\Onion.Sample.INET\\Infrastructure.Tets\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Virgil\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -9323,11 +9323,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\Virgil\\Desktop\\.NET Laborator\\Proiect-INET\\Persistence\\Persistence.csproj": {
-              "projectPath": "C:\\Users\\Virgil\\Desktop\\.NET Laborator\\Proiect-INET\\Persistence\\Persistence.csproj"
+            "C:\\Users\\Virgil\\Desktop\\.NET Laborator\\.NET-Proiect\\Onion.Sample.INET\\Persistence\\Persistence.csproj": {
+              "projectPath": "C:\\Users\\Virgil\\Desktop\\.NET Laborator\\.NET-Proiect\\Onion.Sample.INET\\Persistence\\Persistence.csproj"
             },
-            "C:\\Users\\Virgil\\Desktop\\.NET Laborator\\Proiect-INET\\WebAPI\\WebAPI.csproj": {
-              "projectPath": "C:\\Users\\Virgil\\Desktop\\.NET Laborator\\Proiect-INET\\WebAPI\\WebAPI.csproj"
+            "C:\\Users\\Virgil\\Desktop\\.NET Laborator\\.NET-Proiect\\Onion.Sample.INET\\WebAPI\\WebAPI.csproj": {
+              "projectPath": "C:\\Users\\Virgil\\Desktop\\.NET Laborator\\.NET-Proiect\\Onion.Sample.INET\\WebAPI\\WebAPI.csproj"
             }
           }
         }
@@ -9393,5 +9393,13 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file C:\\Users\\Virgil\\Desktop\\.NET Laborator\\.NET-Proiect\\Onion.Sample.INET\\Infrastructure.Tets\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ERUsuzeN3LOrb8x19OHu0YBl7cTMj4E4i4fDBXTopFuq9vvBI5jKKFq8VD2R2NcrPPKp1Gu+NGspxpWoNZqLaA==",
+  "dgSpecHash": "AGVnfT47hANj2vQRrLh4sp41XxZjp1B/84x1nIHra9zMpBe68KQ6nfR/3azAY/tG2ygPfSDuadEuwITRm1/cvw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Virgil\\Desktop\\.NET Laborator\\Proiect-INET\\Persistence\\Persistence.csproj",
+  "projectFilePath": "C:\\Users\\Virgil\\Desktop\\.NET Laborator\\.NET-Proiect\\Onion.Sample.INET\\Persistence\\Persistence.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Virgil\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Virgil\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
@@ -114,5 +114,12 @@
     "C:\\Users\\Virgil\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
     "C:\\Users\\Virgil\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file C:\\Users\\Virgil\\Desktop\\.NET Laborator\\.NET-Proiect\\Onion.Sample.INET\\Persistence\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }

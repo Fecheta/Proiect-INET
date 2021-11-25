@@ -8,17 +8,16 @@ namespace Infrastructure.Tets.Data
 {
     public class ProductRepositoryTest : DatabaseBaseTest
     {
-        private readonly Repository<Product> repository;
-        private readonly Product newProduct;
+        private readonly Repository<House> repository;
+        private readonly House newProduct;
 
         public ProductRepositoryTest()
         {
-            repository = new Repository<Product>(context);
-            newProduct = new Product()
+            repository = new Repository<House>(context);
+            newProduct = new House()
             {
                 Id = Guid.Parse("2cbda575-865e-4ecc-ab48-24e82f2e39f8"),
                 Name = "Keyboard",
-                Barcode = "BarcodeKeyboard",
                 Price = 20
             };
         }
@@ -32,7 +31,7 @@ namespace Infrastructure.Tets.Data
             var result = await repository.AddAsync(newProduct);
 
             // Assert
-            result.Should().BeOfType<Product>();
+            result.Should().BeOfType<House>();
         }
     }
 }

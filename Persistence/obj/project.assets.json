@@ -6245,11 +6245,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Virgil\\Desktop\\.NET Laborator\\Proiect-INET\\Persistence\\Persistence.csproj",
+      "projectUniqueName": "C:\\Users\\Virgil\\Desktop\\.NET Laborator\\.NET-Proiect\\Onion.Sample.INET\\Persistence\\Persistence.csproj",
       "projectName": "Persistence",
-      "projectPath": "C:\\Users\\Virgil\\Desktop\\.NET Laborator\\Proiect-INET\\Persistence\\Persistence.csproj",
+      "projectPath": "C:\\Users\\Virgil\\Desktop\\.NET Laborator\\.NET-Proiect\\Onion.Sample.INET\\Persistence\\Persistence.csproj",
       "packagesPath": "C:\\Users\\Virgil\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Virgil\\Desktop\\.NET Laborator\\Proiect-INET\\Persistence\\obj\\",
+      "outputPath": "C:\\Users\\Virgil\\Desktop\\.NET Laborator\\.NET-Proiect\\Onion.Sample.INET\\Persistence\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Virgil\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -6266,8 +6266,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\Virgil\\Desktop\\.NET Laborator\\Proiect-INET\\Application\\Application.csproj": {
-              "projectPath": "C:\\Users\\Virgil\\Desktop\\.NET Laborator\\Proiect-INET\\Application\\Application.csproj"
+            "C:\\Users\\Virgil\\Desktop\\.NET Laborator\\.NET-Proiect\\Onion.Sample.INET\\Application\\Application.csproj": {
+              "projectPath": "C:\\Users\\Virgil\\Desktop\\.NET Laborator\\.NET-Proiect\\Onion.Sample.INET\\Application\\Application.csproj"
             }
           }
         }
@@ -6325,5 +6325,13 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file C:\\Users\\Virgil\\Desktop\\.NET Laborator\\.NET-Proiect\\Onion.Sample.INET\\Persistence\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }

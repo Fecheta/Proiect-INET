@@ -1,8 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "ZV3uSn6bsc/ceASbQXKAAtOEJ4h+hEHmup+tkT/JNOCZNCAHIvHYpqIVAhjmvlNpJRIVZWVnQbgEFS0/D61vMg==",
+  "dgSpecHash": "/m0+M0ynqoDqrAlP/3xhwKMkt7DEvU4S7GKcGZ4SRzQsjOI63B5Sgnz/g2Gb/wqGUBgvkXBxjzBtH8BqL2beYQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Virgil\\Desktop\\.NET Laborator\\Proiect-INET\\Domain\\Domain.csproj",
+  "projectFilePath": "C:\\Users\\Virgil\\Desktop\\.NET Laborator\\.NET-Proiect\\Onion.Sample.INET\\Domain\\Domain.csproj",
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file C:\\Users\\Virgil\\Desktop\\.NET Laborator\\.NET-Proiect\\Onion.Sample.INET\\Domain\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }

@@ -1,10 +1,11 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFramework>net5.0</TargetFramework>
+    <TargetFramework>net6.0</TargetFramework>
     <Nullable>enable</Nullable>
 
     <IsPackable>false</IsPackable>
+    <ProjectGuid>{64c3ea52-d934-443b-9320-cc17664c59d9}</ProjectGuid>
   </PropertyGroup>
 
   <ItemGroup>

@@ -8,13 +8,13 @@ namespace Infrastructure.Tets.API.v1
 {
     public class ProductsControllerTests
     {
-        private readonly ProductsController controller;
+        private readonly HousesController controller;
         private readonly IMediator mediator;
 
         public ProductsControllerTests()
         {
             mediator = A.Fake<IMediator>();
-            controller = new ProductsController(mediator);
+            controller = new HousesController(mediator);
         }
 
         [Fact]
@@ -22,7 +22,7 @@ namespace Infrastructure.Tets.API.v1
         {
             // Arrange&& act
             await controller.Get();
-            A.CallTo(() => mediator.Send(A<GetProductsQuery>._, default)).MustHaveHappenedOnceExactly();
+            A.CallTo(() => mediator.Send(A<GetHousesQuery>._, default)).MustHaveHappenedOnceExactly();
         }
 
     }

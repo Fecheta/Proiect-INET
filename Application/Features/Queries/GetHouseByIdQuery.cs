@@ -3,7 +3,8 @@ using MediatR;
 
 namespace Application.Features.Queries
 {
-    public class GetProductsQuery : IRequest<IEnumerable<Product>>
+    public class GetHouseByIdQuery : IRequest<House>
     {
+        public Guid Id { get; set; }
     }
 }

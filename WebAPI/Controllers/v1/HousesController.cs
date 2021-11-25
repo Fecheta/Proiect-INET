@@ -6,14 +6,14 @@ using Microsoft.AspNetCore.Mvc;
 namespace WebAPI.Controllers.v1
 {
     [ApiVersion("1.0")]
-    public class ProductsController : BaseController
+    public class HousesController : BaseController
     {
-        public ProductsController(IMediator mediator) : base(mediator)
+        public HousesController(IMediator mediator) : base(mediator)
         {
         }
 
         [HttpPost]
-        public async Task<IActionResult> Create([FromBody] CreateProductCommand command)
+        public async Task<IActionResult> Create([FromBody] CreateHouseCommand command)
         {
             return Ok(await mediator.Send(command));
         }
@@ -21,11 +21,11 @@ namespace WebAPI.Controllers.v1
         [HttpGet]
         public async Task<IActionResult> Get()
         {
-            return Ok(await mediator.Send(new GetProductsQuery()));
+            return Ok(await mediator.Send(new GetHousesQuery()));
         }
 
         [HttpPut]
-        public async Task<IActionResult> Update(Guid id, [FromBody] UpdateProductCommand command)
+        public async Task<IActionResult> Update(Guid id, [FromBody] UpdateHouseCommand command)
         {
             if (id != command.Id)
             {

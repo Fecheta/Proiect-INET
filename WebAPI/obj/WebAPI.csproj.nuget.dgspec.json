@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Virgil\\Desktop\\.NET Laborator\\Proiect-INET\\WebAPI\\WebAPI.csproj": {}
+    "C:\\Users\\Virgil\\Desktop\\.NET Laborator\\.NET-Proiect\\Onion.Sample.INET\\WebAPI\\WebAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Virgil\\Desktop\\.NET Laborator\\Proiect-INET\\Application\\Application.csproj": {
+    "C:\\Users\\Virgil\\Desktop\\.NET Laborator\\.NET-Proiect\\Onion.Sample.INET\\Application\\Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Virgil\\Desktop\\.NET Laborator\\Proiect-INET\\Application\\Application.csproj",
+        "projectUniqueName": "C:\\Users\\Virgil\\Desktop\\.NET Laborator\\.NET-Proiect\\Onion.Sample.INET\\Application\\Application.csproj",
         "projectName": "Application",
-        "projectPath": "C:\\Users\\Virgil\\Desktop\\.NET Laborator\\Proiect-INET\\Application\\Application.csproj",
+        "projectPath": "C:\\Users\\Virgil\\Desktop\\.NET Laborator\\.NET-Proiect\\Onion.Sample.INET\\Application\\Application.csproj",
         "packagesPath": "C:\\Users\\Virgil\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Virgil\\Desktop\\.NET Laborator\\Proiect-INET\\Application\\obj\\",
+        "outputPath": "C:\\Users\\Virgil\\Desktop\\.NET Laborator\\.NET-Proiect\\Onion.Sample.INET\\Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Virgil\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Virgil\\Desktop\\.NET Laborator\\Proiect-INET\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\Virgil\\Desktop\\.NET Laborator\\Proiect-INET\\Domain\\Domain.csproj"
+              "C:\\Users\\Virgil\\Desktop\\.NET Laborator\\.NET-Proiect\\Onion.Sample.INET\\Domain\\Domain.csproj": {
+                "projectPath": "C:\\Users\\Virgil\\Desktop\\.NET Laborator\\.NET-Proiect\\Onion.Sample.INET\\Domain\\Domain.csproj"
               }
             }
           }
@@ -76,14 +76,14 @@
         }
       }
     },
-    "C:\\Users\\Virgil\\Desktop\\.NET Laborator\\Proiect-INET\\Domain\\Domain.csproj": {
+    "C:\\Users\\Virgil\\Desktop\\.NET Laborator\\.NET-Proiect\\Onion.Sample.INET\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Virgil\\Desktop\\.NET Laborator\\Proiect-INET\\Domain\\Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Virgil\\Desktop\\.NET Laborator\\.NET-Proiect\\Onion.Sample.INET\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\Virgil\\Desktop\\.NET Laborator\\Proiect-INET\\Domain\\Domain.csproj",
+        "projectPath": "C:\\Users\\Virgil\\Desktop\\.NET Laborator\\.NET-Proiect\\Onion.Sample.INET\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\Virgil\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Virgil\\Desktop\\.NET Laborator\\Proiect-INET\\Domain\\obj\\",
+        "outputPath": "C:\\Users\\Virgil\\Desktop\\.NET Laborator\\.NET-Proiect\\Onion.Sample.INET\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Virgil\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -130,14 +130,14 @@
         }
       }
     },
-    "C:\\Users\\Virgil\\Desktop\\.NET Laborator\\Proiect-INET\\Persistence\\Persistence.csproj": {
+    "C:\\Users\\Virgil\\Desktop\\.NET Laborator\\.NET-Proiect\\Onion.Sample.INET\\Persistence\\Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Virgil\\Desktop\\.NET Laborator\\Proiect-INET\\Persistence\\Persistence.csproj",
+        "projectUniqueName": "C:\\Users\\Virgil\\Desktop\\.NET Laborator\\.NET-Proiect\\Onion.Sample.INET\\Persistence\\Persistence.csproj",
         "projectName": "Persistence",
-        "projectPath": "C:\\Users\\Virgil\\Desktop\\.NET Laborator\\Proiect-INET\\Persistence\\Persistence.csproj",
+        "projectPath": "C:\\Users\\Virgil\\Desktop\\.NET Laborator\\.NET-Proiect\\Onion.Sample.INET\\Persistence\\Persistence.csproj",
         "packagesPath": "C:\\Users\\Virgil\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Virgil\\Desktop\\.NET Laborator\\Proiect-INET\\Persistence\\obj\\",
+        "outputPath": "C:\\Users\\Virgil\\Desktop\\.NET Laborator\\.NET-Proiect\\Onion.Sample.INET\\Persistence\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Virgil\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -154,8 +154,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Virgil\\Desktop\\.NET Laborator\\Proiect-INET\\Application\\Application.csproj": {
-                "projectPath": "C:\\Users\\Virgil\\Desktop\\.NET Laborator\\Proiect-INET\\Application\\Application.csproj"
+              "C:\\Users\\Virgil\\Desktop\\.NET Laborator\\.NET-Proiect\\Onion.Sample.INET\\Application\\Application.csproj": {
+                "projectPath": "C:\\Users\\Virgil\\Desktop\\.NET Laborator\\.NET-Proiect\\Onion.Sample.INET\\Application\\Application.csproj"
               }
             }
           }
@@ -214,14 +214,14 @@
         }
       }
     },
-    "C:\\Users\\Virgil\\Desktop\\.NET Laborator\\Proiect-INET\\WebAPI\\WebAPI.csproj": {
+    "C:\\Users\\Virgil\\Desktop\\.NET Laborator\\.NET-Proiect\\Onion.Sample.INET\\WebAPI\\WebAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Virgil\\Desktop\\.NET Laborator\\Proiect-INET\\WebAPI\\WebAPI.csproj",
+        "projectUniqueName": "C:\\Users\\Virgil\\Desktop\\.NET Laborator\\.NET-Proiect\\Onion.Sample.INET\\WebAPI\\WebAPI.csproj",
         "projectName": "WebAPI",
-        "projectPath": "C:\\Users\\Virgil\\Desktop\\.NET Laborator\\Proiect-INET\\WebAPI\\WebAPI.csproj",
+        "projectPath": "C:\\Users\\Virgil\\Desktop\\.NET Laborator\\.NET-Proiect\\Onion.Sample.INET\\WebAPI\\WebAPI.csproj",
         "packagesPath": "C:\\Users\\Virgil\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Virgil\\Desktop\\.NET Laborator\\Proiect-INET\\WebAPI\\obj\\",
+        "outputPath": "C:\\Users\\Virgil\\Desktop\\.NET Laborator\\.NET-Proiect\\Onion.Sample.INET\\WebAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Virgil\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -238,11 +238,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Virgil\\Desktop\\.NET Laborator\\Proiect-INET\\Application\\Application.csproj": {
-                "projectPath": "C:\\Users\\Virgil\\Desktop\\.NET Laborator\\Proiect-INET\\Application\\Application.csproj"
+              "C:\\Users\\Virgil\\Desktop\\.NET Laborator\\.NET-Proiect\\Onion.Sample.INET\\Application\\Application.csproj": {
+                "projectPath": "C:\\Users\\Virgil\\Desktop\\.NET Laborator\\.NET-Proiect\\Onion.Sample.INET\\Application\\Application.csproj"
               },
-              "C:\\Users\\Virgil\\Desktop\\.NET Laborator\\Proiect-INET\\Persistence\\Persistence.csproj": {
-                "projectPath": "C:\\Users\\Virgil\\Desktop\\.NET Laborator\\Proiect-INET\\Persistence\\Persistence.csproj"
+              "C:\\Users\\Virgil\\Desktop\\.NET Laborator\\.NET-Proiect\\Onion.Sample.INET\\Persistence\\Persistence.csproj": {
+                "projectPath": "C:\\Users\\Virgil\\Desktop\\.NET Laborator\\.NET-Proiect\\Onion.Sample.INET\\Persistence\\Persistence.csproj"
               }
             }
           }

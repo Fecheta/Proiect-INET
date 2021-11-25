@@ -3,17 +3,17 @@ using Microsoft.EntityFrameworkCore;
 
 namespace Persistence.Context
 {
-    public class ProductContext : DbContext
+    public class HouseContext : DbContext
     {
         //public ProductContext()
         //{
 
         //}
-        public ProductContext(DbContextOptions<ProductContext> options) : base(options)
+        public HouseContext(DbContextOptions<HouseContext> options) : base(options)
         {
         }
 
-        public DbSet<Product> Products { get ; set; }
+        public DbSet<House> Houses { get ; set; }
 
         public async Task<int> SaveChangesAsync()
         {

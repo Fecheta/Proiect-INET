@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3ypsO2v8GvrMk1kUYhSJatAp/Ycf44ACGsfWdGZaY2KevpVsnuPqvMlLLk8Y0ztCf7GlaAdOcqowS5k8T+Hxcg==",
+  "dgSpecHash": "feWAYz8XqVzYNKEUmDGvpo7k0Lkl20rq+HJqhvmhkk1pHQ42rEXmVP/LfvLicyGW33fpXac8hO85RUuF+Wdtzg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Virgil\\Desktop\\.NET Laborator\\Proiect-INET\\WebAPI\\WebAPI.csproj",
+  "projectFilePath": "C:\\Users\\Virgil\\Desktop\\.NET Laborator\\.NET-Proiect\\Onion.Sample.INET\\WebAPI\\WebAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Virgil\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Virgil\\.nuget\\packages\\mediatr\\9.0.0\\mediatr.9.0.0.nupkg.sha512",
@@ -120,5 +120,12 @@
     "C:\\Users\\Virgil\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
     "C:\\Users\\Virgil\\.nuget\\packages\\system.xml.xmlserializer\\4.3.0\\system.xml.xmlserializer.4.3.0.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file C:\\Users\\Virgil\\Desktop\\.NET Laborator\\.NET-Proiect\\Onion.Sample.INET\\WebAPI\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }

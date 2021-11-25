@@ -7,7 +7,7 @@ using Persistence.Context;
 
 namespace Persistence.Migrations
 {
-    [DbContext(typeof(ProductContext))]
+    [DbContext(typeof(HouseContext))]
     partial class ProductContextModelSnapshot : ModelSnapshot
     {
         protected override void BuildModel(ModelBuilder modelBuilder)
@@ -16,14 +16,10 @@ namespace Persistence.Migrations
             modelBuilder
                 .HasAnnotation("ProductVersion", "5.0.11");
 
-            modelBuilder.Entity("Domain.Entities.Product", b =>
+            modelBuilder.Entity("Domain.Entities.House", b =>
                 {
                     b.Property<Guid>("Id")
                         .ValueGeneratedOnAdd()
-                        .HasColumnType("TEXT");
-
-                    b.Property<string>("Barcode")
-                        .IsRequired()
                         .HasColumnType("TEXT");
 
                     b.Property<string>("Name")
@@ -35,7 +31,7 @@ namespace Persistence.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("Products");
+                    b.ToTable("Houses");
                 });
 #pragma warning restore 612, 618
         }

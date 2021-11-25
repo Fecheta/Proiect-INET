@@ -2,7 +2,7 @@
 
 namespace Application.Interfaces
 {
-    public interface IProductRepository : IRepository<Product>
+    public interface IHouseRepository : IRepository<House>
     {
     }
 }
